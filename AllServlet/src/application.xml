@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+  <bean id="CategoryDao" class="com.task.store.dao.daoImpl.CategoryDaoImpl"/>
+  <bean id="OrderDao" class="com.task.store.dao.daoImpl.OrderDaoImpl"/>
+  <bean id="ProductDao" class="com.task.store.dao.daoImpl.ProductDaoImpl"/>
+  <bean id="UserDao" class="com.task.store.dao.daoImpl.UserDaoImpl"/>
+</beans>
